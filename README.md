@@ -1,4 +1,4 @@
-# ⛽ FuelFinder Ireland
+# FuelFinder Ireland
 
 Find the cheapest petrol and diesel near you. Real prices, real stations, across all of Ireland.
 
@@ -25,8 +25,9 @@ Tap a station for the full breakdown: brand, address, both fuel prices, distance
 Station clusters take the color of the cheapest station inside them, so you're encouraged to zoom in rather than skip past a group.
 
 ### Screenshots
+ 
+<img src="image.png" alt="alt text" width="220"/> <img src="image-1.png" alt="alt text" width="220"/> <img src="image-2.png" alt="alt text" width="220"/> <img src="image-3.png" alt="alt text" width="220"/>
 
-![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)
 
 ## Built With
 
