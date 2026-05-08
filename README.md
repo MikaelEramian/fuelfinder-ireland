@@ -26,7 +26,7 @@ Station clusters take the color of the cheapest station inside them, so you're e
 
 ### Screenshots
 
-<img src="screenshots/image.png" alt="alt text" width="220"/> <img src="screenshots/image-1.png" alt="alt text" width="220"/> <img src="screenshots/image-2.png" alt="alt text" width="220"/> <img src="screenshots/image-3.png" alt="alt text" width="220"/>
+<img src="screenshots/image.png" alt="alt text" width="200"/> <img src="screenshots/image-1.png" alt="alt text" width="200"/> <img src="screenshots/image-2.png" alt="alt text" width="200"/> <img src="screenshots/image-3.png" alt="alt text" width="200"/>
 
 ## Built With
 
