@@ -25,9 +25,8 @@ Tap a station for the full breakdown: brand, address, both fuel prices, distance
 Station clusters take the color of the cheapest station inside them, so you're encouraged to zoom in rather than skip past a group.
 
 ### Screenshots
- 
-<img src="image.png" alt="alt text" width="220"/> <img src="image-1.png" alt="alt text" width="220"/> <img src="image-2.png" alt="alt text" width="220"/> <img src="image-3.png" alt="alt text" width="220"/>
 
+<img src="screenshots/image.png" alt="alt text" width="220"/> <img src="screenshots/image-1.png" alt="alt text" width="220"/> <img src="screenshots/image-2.png" alt="alt text" width="220"/> <img src="screenshots/image-3.png" alt="alt text" width="220"/>
 
 ## Built With
 
@@ -52,11 +51,14 @@ You'll need Flutter (3.41+), Android Studio (for the SDK), and a free Supabase p
 3. Run `supabase/schema.sql` in the Supabase SQL Editor to create tables, indexes, RLS policies, and helper functions
 4. Optionally run the seed data migration to populate stations
 5. Create a `.env` file in the project root:
+
 ```
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_ANON_KEY=your-anon-key-here
 ```
+
 6. Run the app:
+
 ```bash
 flutter pub get
 flutter run
